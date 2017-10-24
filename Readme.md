@@ -3,7 +3,7 @@
 Данный модуль предназначен для ускорения подключения модуля [Pixel-Glass](https://github.com/yoksel/pixel-glass-js/) от [Yoksel](https://github.com/yoksel)
 к проектам HtmlAcademy. 
 
-###Использование.
+### Использование.
 
 1. Необходимо установить модуль глобально:
 
